@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // ==================== CONFIGURAÇÕES WiFi ====================
-const char* ssid     = "S24";
-const char* password = "Baleia23@";
+const char* ssid     = "ssid";
+const char* password = "password";
 
 // ==================== PINOS DOS LEDs RGB ====================
 #define LED1_R 13
